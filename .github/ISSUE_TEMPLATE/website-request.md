@@ -8,9 +8,8 @@ assignees: 'CoopPlayzz'
 ---
 
 List the service(s) you want to add:
-1.
-2.
-3.
+ - 
+ -
 
 
 <!-- At least one is required-->
