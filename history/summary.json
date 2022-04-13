@@ -4,19 +4,19 @@
     "url": "https://www.google.com",
     "icon": "https://favicons.githubusercontent.com/www.google.com",
     "slug": "google",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 73,
-    "timeDay": 55,
-    "timeWeek": 67,
+    "timeDay": 63,
+    "timeWeek": 68,
     "timeMonth": 73,
     "timeYear": 73,
     "dailyMinutesDown": {
-      "2022-04-13": 0
+      "2022-04-13": 8
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/samsung.com",
     "slug": "samsung",
     "status": "up",
-    "uptime": "89.68%",
-    "uptimeDay": "77.40%",
-    "uptimeWeek": "72.94%",
-    "uptimeMonth": "89.68%",
-    "uptimeYear": "89.68%",
+    "uptime": "89.64%",
+    "uptimeDay": "77.97%",
+    "uptimeWeek": "73.02%",
+    "uptimeMonth": "89.64%",
+    "uptimeYear": "89.64%",
     "time": 1421,
     "timeDay": 1367,
     "timeWeek": 1397,
     "timeMonth": 1421,
     "timeYear": 1421,
     "dailyMinutesDown": {
-      "2022-04-13": 326,
+      "2022-04-13": 318,
       "2022-04-12": 398,
       "2022-04-11": 483,
       "2022-04-10": 213,
@@ -63,7 +63,7 @@
       "2022-04-07": 395,
       "2022-04-06": 361,
       "2022-04-05": 446,
-      "2022-04-04": 231
+      "2022-04-04": 255
     }
   }
 ]
