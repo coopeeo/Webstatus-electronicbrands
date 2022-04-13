@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 73,
-    "timeDay": 63,
-    "timeWeek": 68,
+    "timeDay": 72,
+    "timeWeek": 70,
     "timeMonth": 73,
     "timeYear": 73,
     "dailyMinutesDown": {}
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 168,
-    "timeDay": 255,
-    "timeWeek": 251,
-    "timeMonth": 168,
-    "timeYear": 168,
+    "time": 172,
+    "timeDay": 274,
+    "timeWeek": 256,
+    "timeMonth": 172,
+    "timeYear": 172,
     "dailyMinutesDown": {}
   },
   {
@@ -40,17 +40,17 @@
     "url": "https://samsung.com",
     "icon": "https://favicons.githubusercontent.com/samsung.com",
     "slug": "samsung",
-    "status": "up",
-    "uptime": "89.64%",
+    "status": "degraded",
+    "uptime": "89.71%",
     "uptimeDay": "75.68%",
-    "uptimeWeek": "73.10%",
-    "uptimeMonth": "89.64%",
-    "uptimeYear": "89.64%",
-    "time": 1421,
-    "timeDay": 1358,
-    "timeWeek": 1392,
-    "timeMonth": 1421,
-    "timeYear": 1421,
+    "uptimeWeek": "73.31%",
+    "uptimeMonth": "89.71%",
+    "uptimeYear": "89.71%",
+    "time": 1422,
+    "timeDay": 1367,
+    "timeWeek": 1399,
+    "timeMonth": 1422,
+    "timeYear": 1422,
     "dailyMinutesDown": {
       "2022-04-13": 351,
       "2022-04-12": 398,
@@ -61,7 +61,7 @@
       "2022-04-07": 395,
       "2022-04-06": 361,
       "2022-04-05": 446,
-      "2022-04-04": 231
+      "2022-04-04": 212
     }
   }
 ]
