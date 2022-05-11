@@ -40,16 +40,16 @@
     "url": "https://samsung.com",
     "icon": "https://favicons.githubusercontent.com/samsung.com",
     "slug": "samsung",
-    "status": "up",
-    "uptime": "95.88%",
-    "uptimeDay": "66.61%",
+    "status": "degraded",
+    "uptime": "95.91%",
+    "uptimeDay": "66.95%",
     "uptimeWeek": "76.70%",
-    "uptimeMonth": "92.85%",
-    "uptimeYear": "95.88%",
+    "uptimeMonth": "92.90%",
+    "uptimeYear": "95.91%",
     "time": 1444,
-    "timeDay": 1369,
-    "timeWeek": 1470,
-    "timeMonth": 1456,
+    "timeDay": 1412,
+    "timeWeek": 1472,
+    "timeMonth": 1458,
     "timeYear": 1444,
     "dailyMinutesDown": {
       "2022-05-11": 310,
@@ -61,7 +61,7 @@
       "2022-05-05": 253,
       "2022-05-04": 438,
       "2022-05-03": 282,
-      "2022-05-02": 142
+      "2022-05-02": 120
     }
   }
 ]
