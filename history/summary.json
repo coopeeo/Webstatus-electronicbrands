@@ -24,12 +24,12 @@
     "slug": "apple",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.86%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 283,
-    "timeDay": 2976,
+    "timeDay": 79,
     "timeWeek": 1129,
     "timeMonth": 463,
     "timeYear": 283,
@@ -42,16 +42,16 @@
     "url": "https://samsung.com",
     "icon": "https://favicons.githubusercontent.com/samsung.com",
     "slug": "samsung",
-    "status": "up",
+    "status": "degraded",
     "uptime": "97.93%",
-    "uptimeDay": "75.18%",
-    "uptimeWeek": "77.28%",
-    "uptimeMonth": "94.77%",
+    "uptimeDay": "79.43%",
+    "uptimeWeek": "77.36%",
+    "uptimeMonth": "94.79%",
     "uptimeYear": "97.93%",
     "time": 1457,
-    "timeDay": 1383,
-    "timeWeek": 1472,
-    "timeMonth": 1481,
+    "timeDay": 1427,
+    "timeWeek": 1470,
+    "timeMonth": 1482,
     "timeYear": 1457,
     "dailyMinutesDown": {
       "2022-06-04": 219,
@@ -60,7 +60,7 @@
       "2022-06-01": 289,
       "2022-05-31": 409,
       "2022-05-30": 302,
-      "2022-05-29": 317
+      "2022-05-29": 309
     }
   }
 ]
