@@ -13,7 +13,7 @@
     "time": 95,
     "timeDay": 69,
     "timeWeek": 96,
-    "timeMonth": 120,
+    "timeMonth": 122,
     "timeYear": 95,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 248,
     "timeDay": 275,
     "timeWeek": 160,
-    "timeMonth": 253,
+    "timeMonth": 247,
     "timeYear": 248,
     "dailyMinutesDown": {
       "2022-09-03": 8,
@@ -43,16 +43,16 @@
     "url": "https://samsung.com",
     "icon": "https://favicons.githubusercontent.com/samsung.com",
     "slug": "samsung",
-    "status": "up",
-    "uptime": "98.75%",
-    "uptimeDay": "80.36%",
-    "uptimeWeek": "68.86%",
-    "uptimeMonth": "92.83%",
-    "uptimeYear": "98.75%",
+    "status": "degraded",
+    "uptime": "98.76%",
+    "uptimeDay": "80.39%",
+    "uptimeWeek": "68.95%",
+    "uptimeMonth": "92.86%",
+    "uptimeYear": "98.76%",
     "time": 1511,
-    "timeDay": 2199,
-    "timeWeek": 2050,
-    "timeMonth": 1782,
+    "timeDay": 2267,
+    "timeWeek": 2061,
+    "timeMonth": 1784,
     "timeYear": 1511,
     "dailyMinutesDown": {
       "2022-09-10": 266,
@@ -61,7 +61,7 @@
       "2022-09-07": 717,
       "2022-09-06": 375,
       "2022-09-05": 651,
-      "2022-09-04": 350
+      "2022-09-04": 340
     }
   }
 ]
