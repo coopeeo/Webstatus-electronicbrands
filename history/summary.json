@@ -24,18 +24,19 @@
     "url": "https://apple.com",
     "icon": "https://icons.duckduckgo.com/ip3/apple.com.ico",
     "slug": "apple",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 240,
-    "timeDay": 258,
-    "timeWeek": 244,
-    "timeMonth": 202,
-    "timeYear": 240,
+    "time": 247,
+    "timeDay": 1047,
+    "timeWeek": 443,
+    "timeMonth": 254,
+    "timeYear": 247,
     "dailyMinutesDown": {
+      "2022-10-13": 0,
       "2022-09-03": 8,
       "2022-06-03": 15
     }
@@ -45,16 +46,16 @@
     "url": "https://samsung.com",
     "icon": "https://icons.duckduckgo.com/ip3/samsung.com.ico",
     "slug": "samsung",
-    "status": "up",
-    "uptime": "98.30%",
-    "uptimeDay": "65.83%",
-    "uptimeWeek": "55.94%",
-    "uptimeMonth": "88.44%",
-    "uptimeYear": "98.30%",
+    "status": "degraded",
+    "uptime": "98.34%",
+    "uptimeDay": "71.70%",
+    "uptimeWeek": "56.30%",
+    "uptimeMonth": "88.70%",
+    "uptimeYear": "98.34%",
     "time": 1526,
-    "timeDay": 1461,
-    "timeWeek": 1606,
-    "timeMonth": 1602,
+    "timeDay": 1551,
+    "timeWeek": 1616,
+    "timeMonth": 1595,
     "timeYear": 1526,
     "dailyMinutesDown": {
       "2022-10-13": 153,
@@ -66,7 +67,7 @@
       "2022-10-07": 556,
       "2022-10-06": 439,
       "2022-10-05": 310,
-      "2022-10-04": 254
+      "2022-10-04": 141
     }
   }
 ]
