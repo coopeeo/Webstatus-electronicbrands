@@ -1,7 +1,7 @@
 url: https://samsung.com
-status: up
+status: degraded
 code: 200
-responseTime: 323
-lastUpdated: 2022-10-22T16:57:39.217Z
+responseTime: 2604
+lastUpdated: 2022-10-22T18:00:12.520Z
 startTime: Sat Mar 19 2022 23:13:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
