@@ -13,7 +13,7 @@
     "time": 110,
     "timeDay": 86,
     "timeWeek": 128,
-    "timeMonth": 119,
+    "timeMonth": 120,
     "timeYear": 110,
     "dailyMinutesDown": {
       "2022-09-20": 18
@@ -33,7 +33,7 @@
     "time": 236,
     "timeDay": 226,
     "timeWeek": 147,
-    "timeMonth": 176,
+    "timeMonth": 168,
     "timeYear": 236,
     "dailyMinutesDown": {
       "2022-10-13": 48,
@@ -48,14 +48,14 @@
     "slug": "samsung",
     "status": "up",
     "uptime": "99.31%",
-    "uptimeDay": "55.20%",
+    "uptimeDay": "58.85%",
     "uptimeWeek": "74.91%",
     "uptimeMonth": "94.23%",
     "uptimeYear": "99.31%",
     "time": 1527,
-    "timeDay": 1486,
-    "timeWeek": 1523,
-    "timeMonth": 1530,
+    "timeDay": 1452,
+    "timeWeek": 1527,
+    "timeMonth": 1528,
     "timeYear": 1527,
     "dailyMinutesDown": {
       "2022-11-30": 648,
