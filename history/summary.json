@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 71,
-    "timeWeek": 77,
-    "timeMonth": 92,
+    "timeDay": 75,
+    "timeWeek": 75,
+    "timeMonth": 89,
     "timeYear": 108,
     "dailyMinutesDown": {
       "2022-09-20": 18
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 229,
-    "timeDay": 87,
-    "timeWeek": 136,
+    "timeDay": 201,
+    "timeWeek": 142,
     "timeMonth": 174,
     "timeYear": 229,
     "dailyMinutesDown": {
@@ -46,22 +46,22 @@
     "url": "https://samsung.com",
     "icon": "https://icons.duckduckgo.com/ip3/samsung.com.ico",
     "slug": "samsung",
-    "status": "up",
-    "uptime": "99.60%",
-    "uptimeDay": "56.78%",
-    "uptimeWeek": "83.36%",
-    "uptimeMonth": "96.17%",
-    "uptimeYear": "99.60%",
-    "time": 1530,
-    "timeDay": 1479,
+    "status": "degraded",
+    "uptime": "99.61%",
+    "uptimeDay": "57.58%",
+    "uptimeWeek": "83.71%",
+    "uptimeMonth": "96.25%",
+    "uptimeYear": "99.61%",
+    "time": 1529,
+    "timeDay": 1470,
     "timeWeek": 1493,
     "timeMonth": 1538,
-    "timeYear": 1530,
+    "timeYear": 1529,
     "dailyMinutesDown": {
       "2023-01-02": 579,
       "2023-01-01": 556,
       "2022-12-31": 474,
-      "2022-12-30": 78
+      "2022-12-30": 42
     }
   }
 ]
