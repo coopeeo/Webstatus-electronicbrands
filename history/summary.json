@@ -50,21 +50,21 @@
     "slug": "samsung",
     "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "75.17%",
-    "uptimeWeek": "81.07%",
-    "uptimeMonth": "95.64%",
+    "uptimeDay": "75.09%",
+    "uptimeWeek": "80.88%",
+    "uptimeMonth": "95.60%",
     "uptimeYear": "99.58%",
     "time": 1526,
-    "timeDay": 1422,
+    "timeDay": 1406,
     "timeWeek": 1495,
     "timeMonth": 1503,
     "timeYear": 1526,
     "dailyMinutesDown": {
-      "2023-01-29": 119,
+      "2023-01-29": 145,
       "2023-01-28": 582,
       "2023-01-27": 431,
       "2023-01-26": 654,
-      "2023-01-25": 133
+      "2023-01-25": 125
     }
   }
 ]
