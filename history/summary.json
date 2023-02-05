@@ -50,23 +50,23 @@
     "url": "https://samsung.com",
     "icon": "https://icons.duckduckgo.com/ip3/samsung.com.ico",
     "slug": "samsung",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.65%",
-    "uptimeDay": "73.97%",
-    "uptimeWeek": "83.65%",
-    "uptimeMonth": "96.24%",
+    "uptimeDay": "73.96%",
+    "uptimeWeek": "83.73%",
+    "uptimeMonth": "96.26%",
     "uptimeYear": "99.65%",
     "time": 1526,
-    "timeDay": 1476,
+    "timeDay": 1505,
     "timeWeek": 1511,
-    "timeMonth": 1506,
+    "timeMonth": 1507,
     "timeYear": 1526,
     "dailyMinutesDown": {
       "2023-02-05": 198,
       "2023-02-04": 312,
       "2023-02-03": 479,
       "2023-02-02": 319,
-      "2023-02-01": 347
+      "2023-02-01": 339
     }
   }
 ]
