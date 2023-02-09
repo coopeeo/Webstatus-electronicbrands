@@ -5,13 +5,10 @@ repo: Webstatus-electronicbrands # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-    maxResponseTime: 550
   - name: Apple
     url: https://apple.com
-    maxResponseTime: 550
   - name: Samsung
     url: https://samsung.com
-    maxResponseTime: 680
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
